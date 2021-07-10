@@ -1,0 +1,24 @@
+#listabici, #leggera{
+list-style: none;
+margin-left: 40px;
+}
+h3{
+    margin-left: 70px;
+}
+#titolo{
+    margin-left: 80px;
+}
+
+.green {
+    color: green;
+}
+.red{
+    color: red;
+}
+.blue{
+    color:blue
+}
+.orange{
+    color:orange;
+    margin-bottom: 20px;
+}
